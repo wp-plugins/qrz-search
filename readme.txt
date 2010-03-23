@@ -1,5 +1,5 @@
 === QRZ Search ===
-Contributers: tepperly
+Contributors: tepperly
 Tags: QRZ, ham
 Requires at least: 2.9
 Tested up to: 2.9.2
