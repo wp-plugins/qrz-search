@@ -40,7 +40,7 @@ on previous 2.x versions as well. PHP 5.x is required.
 
 = What is QRZ.com? =
 
-It's a popular ham radio site where ham's lookup information about operator's
+It's a popular ham radio site where hams lookup information about operators
 based on their call sign. It also has lots of other ham radio information.
 
 = Am I allowed to do this? =
